@@ -1,0 +1,1 @@
+default['my2rdcookbook']['mahatest'] ="testvalue"
